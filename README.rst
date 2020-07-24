@@ -8,6 +8,7 @@ This will give you an overview of how to use Admin Portal.
   :alt: Screenshot
 
 And here's how to use Tableau:
+
 .. image:: ezgif-1-be1843671773%20(1).gif
   :width: 300
   :alt: Tableau
